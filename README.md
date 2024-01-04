@@ -1,6 +1,8 @@
 # flutter_web_azure_speech_text_simple
 
-A simple small project.
+This is a simple Flutter Web project demonstrating the use of Azure Speech-to-Text service with JavaScript, managed by Riverpod for state handling of speech recognition results.
+
+JavaScript で Azure Speech-to-Text サービスを利用し、Riverpod で音声認識結果の状態を管理する簡単な Flutter Web プロジェクトです。
 
 ## Getting Started
 
