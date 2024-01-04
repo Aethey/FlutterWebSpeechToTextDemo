@@ -2,12 +2,9 @@ import 'package:flutter/material.dart';
 import 'package:flutter/src/widgets/framework.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'dart:js' as js;
-
 import 'package:flutter_web_azure_speech_text_simple/config.dart';
 import 'package:flutter_web_azure_speech_text_simple/service/javascript_message_handler.dart';
 import 'package:flutter_web_azure_speech_text_simple/state/message_list_notifier.dart';
-
-
 
 class DemoScreen extends ConsumerWidget {
   const DemoScreen({super.key});
