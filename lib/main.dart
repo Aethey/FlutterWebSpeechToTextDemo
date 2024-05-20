@@ -21,7 +21,7 @@ class MyApp extends ConsumerWidget {
     JavaScriptMessageHandler messageHandler = JavaScriptMessageHandler(ref);
     messageHandler.initV2Thandler();
     return MaterialApp(
-      title: 'Flutter Demo',
+      title: 'FlutterWebSpeechToTextDemo',
       theme: ThemeData(
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
         useMaterial3: true,
